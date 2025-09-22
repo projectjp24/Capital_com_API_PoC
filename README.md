@@ -1,0 +1,1 @@
+# Capital_com_API_PoC
